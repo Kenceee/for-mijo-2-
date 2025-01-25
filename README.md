@@ -35,7 +35,7 @@
     <button class="button" onclick="revealSurprise()">Click me!</button>
     
     <div class="flower-bouquet" id="bouquet">
-        <img src="white.jpg" alt="Flower Bouquet" width="300">
+        <img src="white.jpeg" alt="Flower Bouquet" width="300">
         <p style="font-size: 20px; color: #ff1493;">Here’s a White rose bouquet just for you, kase you’re the white rose in my heart’s garden.:</p>
         
     </div>
